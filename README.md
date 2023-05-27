@@ -1,2 +1,2 @@
-Nahuel Ivan, Gatica Romanutti
-Algoritmos y Estructuras de Datos
+Nahuel Ivan, Gatica Romanutti 
+                                        Algoritmos y Estructuras de Datos
